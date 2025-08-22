@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modify a3.txt
+=======
+Added content in a3.txt file
+>>>>>>> Feature1
