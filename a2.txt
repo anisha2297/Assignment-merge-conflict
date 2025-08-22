@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Again added some content in a2.txt file
+=======
+Add content in a2.txt
+>>>>>>> master
